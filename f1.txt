@@ -1,0 +1,2 @@
+"file1 data"
+new file1 is created
